@@ -1,11 +1,11 @@
 # Table of Contents
-1. Installation
+1. [Installation](https://github.com/ddh4/stackoverflow-analysis#installation)
 2. Project Motivation
 3. File Descriptions
 4. Results
 5. Licensing, Authors, and Acknowledgements
 
-# Installation (#Installation)
+# Installation
 The libraries necessary are:
 - NumPy
 - Scikit Learn
