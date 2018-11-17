@@ -5,7 +5,7 @@
 4. Results
 5. Licensing, Authors, and Acknowledgements
 
-# Installation
+# Installation (#Installation)
 The libraries necessary are:
 - NumPy
 - Scikit Learn
