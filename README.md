@@ -1,3 +1,5 @@
+Please note, the datasets used in this project are too large to be uploaded here on GitHub and can be found [here](https://insights.stackoverflow.com/survey). I renamed the earlier datasets (pre-2017) to be in a consistent format in the notebooks, i.e. the same format of 2017 and 2018. Sorry for the inconvinience!
+
 # Table of Contents
 1. [Installation](https://github.com/ddh4/stackoverflow-analysis#installation)
 2. [Project Motivation](https://github.com/ddh4/stackoverflow-analysis#project-motivation)
@@ -40,5 +42,5 @@ Markdown cells were used to explain the process and decisions made throughout th
 The blog post containing the results of our questions is available [here](https://medium.com/@d.d.hamilton/how-far-and-where-should-you-go-to-get-what-you-want-in-a-tech-career-4ed59401fbeb).
 
 # Licensing, Authors, and Acknowledgements
-The data is provided to the public by Stack Overflow, available [here](https://insights.stackoverflow.com/sursvey).
+The data is provided to the public by Stack Overflow, available [here](https://insights.stackoverflow.com/survey).
 The code in this repository can be used freely.
