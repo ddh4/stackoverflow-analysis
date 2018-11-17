@@ -1,9 +1,9 @@
 # Table of Contents
 1. [Installation](https://github.com/ddh4/stackoverflow-analysis#installation)
-2. Project Motivation
-3. File Descriptions
-4. Results
-5. Licensing, Authors, and Acknowledgements
+2. [Project Motivation](https://github.com/ddh4/stackoverflow-analysis#project-motivation)
+3. [File Descriptions](https://github.com/ddh4/stackoverflow-analysis#file-descriptions)
+4. [Results](https://github.com/ddh4/stackoverflow-analysis#results)
+5. [Licensing, Authors, and Acknowledgements](https://github.com/ddh4/stackoverflow-analysis#licensing-authors-and-acknowledgements)
 
 # Installation
 The libraries necessary are:
