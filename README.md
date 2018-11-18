@@ -39,6 +39,12 @@ This repository contains 2 notebooks which discuss the data in more detail and t
 Markdown cells were used to explain the process and decisions made throughout the analysis.
 
 # Results
+
+In our study, we looked at the statistics for the formal education level of developers in industry in 2018, finding that traditional university tracks dominate the user base.
+We further explored how formal education level relates to financial compensation and job satisfaction, which showed differences in interquartile ranges that are in line with traditional education tracks, primary school through to university degrees.
+We additionally gathered data from 6 years of developer responses and analysed the trend of the top 10 languages in 2018 and included the forecasts for 2019.
+We finally looked at the most popular job roles by percentage of the userbase in tech and then calculated the salary distributions of each.
+
 The blog post containing the results of our questions is available [here](https://medium.com/@d.d.hamilton/how-far-and-where-should-you-go-to-get-what-you-want-in-a-tech-career-4ed59401fbeb).
 
 # Licensing, Authors, and Acknowledgements
